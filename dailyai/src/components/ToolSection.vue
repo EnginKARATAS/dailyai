@@ -16,7 +16,7 @@
           <h1>Piggy Magic Trailer</h1>
           <iframe src="https://www.youtube.com/embed/QFhOGnykPZQ" frameborder="0"></iframe>
         </div>
-</template> 
+</template>  
 
 <script>
 

@@ -1,4 +1,4 @@
-<template>      
+<template>       
     <div class="card">
           <h1>Piggy Magic</h1>
           <a href="">

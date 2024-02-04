@@ -1,0 +1,28 @@
+{
+  "name": "daily-aitool-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "watch": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.395.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "axios": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "logrocket": "^5.0.1",
+    "sass": "^1.65.1",
+    "vue": "^3.3.4",
+    "vue-spinner": "^1.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
+ 

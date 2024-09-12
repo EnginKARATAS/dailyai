@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "SADAI - ai tools daily showcase & newsletter",
   "description": "Every day you will get a new AI tool and image suggestion to catch up AI trends.",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
